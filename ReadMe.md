@@ -4,7 +4,7 @@
 Focado na convergência entre **Inteligência Artificial** e automação de sistemas de alta fidelidade. Atualmente, projeto ecossistemas digitais utilizando metodologias de **Vibe Coding** para transformar lógica complexa em interfaces fluidas e automatizadas.
 
 * 🤖 **Expertise:** Automação de Workflows, Integração de LLMs e Agentes de IA.
-* ⚡ **Stack Atual:** Antigravity, Google Stitch e Claude
+* ⚡ **Stack Atual:** Antigravity, Google Stitch e Claude.
 * 🤝 **Mindset:** Resolução ágil de problemas e arquitetura técnica orientada a resultados.
 
 ---
