@@ -66,8 +66,8 @@ Desenvolvo arquiteturas de ponta unindo a flexibilidade de agentes e a precisão
 ## 📊 Performance & Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaoV1ctor&theme=dracula&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas de João Victor" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaoV1ctor&theme=dracula&hide_border=false&layout=compact" alt="Linguagens de João Victor" height="175" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=JaoV1ctor&theme=dracula&show_icons=true&hide_border=false&include_all_commits=true&count_private=true" alt="Estatísticas de João Victor" height="175" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=JaoV1ctor&theme=dracula&hide_border=false&layout=compact" alt="Linguagens de João Victor" height="175" />
 </p>
 
 <p align="center">
@@ -86,5 +86,5 @@ Que tal elevarmos o nível das suas automações e infraestruturas de IA juntos?
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=JaoV1ctor&icon=0&color=a970ff" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=JaoV1ctor&color=a970ff&style=for-the-badge&label=VISITAS" alt="Visitor Count" />
 </p>
